@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Caicedo</h1>
 <h3 align="center">A passionate full-stack developer from Chicago, IL.</h3>
 
-- 🔭 I’m currently working on a [Python Crud Application](github.com/oscarmc17/Python_project_demo)
+- 🔭 I’m currently working on a [Python Crud Application](github.com/oscarmc17/IMDB_Scraper_Top250TVShows)
 
 - 🌱 My next project will be a **web scraping app using Python**
 
