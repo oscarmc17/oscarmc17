@@ -5,7 +5,7 @@
 
 - 🌱 My next project will be a **web scraping app using Python**
 
-- 👨‍💻 All of my projects are available at [github.com/oscarmc17](github.com/oscarmc17)
+- 👨‍💻 All of my projects are available at [github.com/oscarmc17](https://github.com/oscarmc17)
 
 - 🔥 I love working with **and creating websites using Html, Css, and Js. Python & Flask development too!**
 
