@@ -3,15 +3,13 @@
 
 - 🌱 Portfolio Website: [oscardevelops.com](https://oscardevelops.com)
 
-- 🔭 I’m currently working on a [Python Crud Application](github.com/oscarmc17/IMDB_Scraper_Top250TVShows)
+- 👨‍💻 All of my projects are available at: [github.com/oscarmc17](https://github.com/oscarmc17)
 
-- 👨‍💻 All of my projects are available at [github.com/oscarmc17](https://github.com/oscarmc17)
+- 🔥 I'm an extrovert who loves solving problems, collaborating and communicating, and working through the code.
 
-- 🔥 I love working with **and creating websites using Html, Css, and Js. Python & Flask development too!**
+- 📫 How to reach me **oscarccd17@gmail.com**, [linked/oscarmc17](https://www.linkedin.com/in/oscarmc17/)
 
-- 📫 How to reach me **oscarccd17@gmail.com**
-
-- ⚡ Fun fact **tech/coding has completely changed my life for the better. I can't imagine doing anything else!**
+- ⚡ Fun facts: I play a few instruments, I enjoy running (5K-15Ks. marathon coming soon), and you can catch me trying new foods all around Chicago! I'm always up for talking tech.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
